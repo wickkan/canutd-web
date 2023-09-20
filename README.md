@@ -1,2 +1,2 @@
-# canutd-web
-Candace United's webpage
+# Candace United's webpage
+
