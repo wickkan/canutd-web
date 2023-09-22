@@ -1,4 +1,3 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+module.exports = {
+  pageExtensions: ['mdx', 'tsx', 'ts', 'jsx', 'js'], // List the extensions you're using
+};
