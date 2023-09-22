@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Space+Grotesk:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Space+Grotesk:wght@500&display=swap');
+
+
+.logoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    /* Adjust this to give space from the top */
+}
+
+
+.welcomeText {
+    margin-top: 20px;
+    /* adjust as needed */
+    font-size: 36px;
+    /* adjust as needed */
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    /* or 'Space Grotesk', sans-serif; depending on which one you want */    color: #333;
+    /* adjust color as needed */
+}
+
+.descText {
+    margin-top: 20px;
+    /* adjust as needed */
+    font-size: 20px;
+    /* adjust as needed */
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #333;
+    /* adjust color as needed */
+}
